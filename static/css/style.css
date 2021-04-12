@@ -1,29 +1,27 @@
-* {
-    font-family: 'Quicksand';
+.jumbotron {
+	color: #49a81d;
+	font-family: Arial, Helvetica, sans-serif;
+    padding-left: 80px;
+
 }
 
-.jumbo-bg {
-    background: url('../images/unsplash-elena-mozhvilo.png') no-repeat center;
-    background-size: cover;
+#metaPanel {
+	font-size: smaller;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #49a81d;
 }
 
-.demo-text {
-    font-size: 14px;
-}
-
-.card .card-header {
-    font-size: 15px;
-    font-weight: bold;
+#metaPanel .panel-header {
+    text-align: center;
 }
 
 #selDataset {
-    font-size: 14px;
+	padding: 20px;
+    color: black;
 }
 
-.belly-bg {
-    background-color: #225ea8 !important
-}
-
-.header-font {
-    font-family: 'Playfair Display', serif;
+#samplePanel {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #49a81d;
 }
